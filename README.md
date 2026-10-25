@@ -4,7 +4,8 @@
 
 Все данные загружаются из открытых источников, поэтому после прошивки ничего не нужно вписывать в код или обновлять руками. Wi-Fi настраивается с телефона.
 
-![Экраны табло](docs/screens.png)
+<img width="4800" height="3440" alt="image" src="https://github.com/user-attachments/assets/c6f1d4d2-c486-4e62-9ffa-cda0ca58b21b" />
+
 
 ## Возможности
 
@@ -36,7 +37,8 @@
 
 ## Схема подключения
 
-![Схема подключения](docs/wiring.png)
+<img width="4800" height="3200" alt="image" src="https://github.com/user-attachments/assets/d1575a3b-bf64-439f-ad78-f99996f29948" />
+
 
 | Дисплей / кнопка | ESP32 |
 |---|---|
